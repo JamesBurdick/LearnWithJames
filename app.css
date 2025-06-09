@@ -1,0 +1,26 @@
+nav {
+    background-color: #D1F5FF;
+    color: black;
+    padding: 10px;
+}
+
+body {
+    background-color: #F0F8FF;
+    color: black;
+}
+
+h1 {
+    color: #000;
+    font-size: 24px;
+}
+
+h2 {
+    color: #000;
+    font-size: 20px;
+}
+
+p {
+    color: #000;
+    font-size: 16px;
+}
+
